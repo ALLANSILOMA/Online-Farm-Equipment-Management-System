@@ -37,10 +37,8 @@ A web-based platform for farmers and equipment owners to list, book, and manage 
 
 2. **Database Setup:**
    - Create a MySQL database named `online_farm_equipment_management_system`.
-   - Import the SQL file:
-     ```sql
-     mysql -u your_username -p farm_booking < database/farm_booking.sql
-     ```
+   - Import the SQL file:**online_farm_equipment_management_system.sql**
+     
 4. **Run the Project:**
    - For PHP: Use a local server like XAMPP.
 
